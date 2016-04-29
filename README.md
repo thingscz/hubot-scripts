@@ -8,4 +8,4 @@ Just add selected .coffee file to your Hubot `scripts` directory and restart Hub
 
 ## Configuration
 
-Get your simple API token from [Things.cz Developer Board](https://developer.things.cz) and write it down in the coffee script.
+Get your simple API token from [Things.cz Developer Board](http://developer.things.cz) and write it down in the coffee script.
