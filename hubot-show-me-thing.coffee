@@ -1,4 +1,4 @@
-# Parse Things.cz simple API JSON (just add your Things.cz token to ADD_YOUR_TOKEN_HERE on row 9 and that's it).
+# Parse Things.cz simple API JSON (just change ADD_YOUR_TOKEN_HERE on row 9 and that's it).
 #
 # hubot show me thing <DevEUI> - returns DevEUI last payload
 #
